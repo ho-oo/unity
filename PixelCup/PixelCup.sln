@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A90BE88-5103-CFAA-2BA3-6373AA456B6C}") = "PixelCup", "Assembly-CSharp.csproj", "{618596A2-D64F-9F87-8712-CBA1BFB46891}"
+EndProject
+Project("{3A90BE88-5103-CFAA-2BA3-6373AA456B6C}") = "PixelCup", "Assembly-CSharp-Editor.csproj", "{6F8F0D40-5BF6-B8FE-C9DE-595B73B5E1FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618596A2-D64F-9F87-8712-CBA1BFB46891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618596A2-D64F-9F87-8712-CBA1BFB46891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618596A2-D64F-9F87-8712-CBA1BFB46891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618596A2-D64F-9F87-8712-CBA1BFB46891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8F0D40-5BF6-B8FE-C9DE-595B73B5E1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8F0D40-5BF6-B8FE-C9DE-595B73B5E1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8F0D40-5BF6-B8FE-C9DE-595B73B5E1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8F0D40-5BF6-B8FE-C9DE-595B73B5E1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
